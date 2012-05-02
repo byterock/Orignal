@@ -1,6 +1,6 @@
 require 5.006_001;
 BEGIN {
-  $Orignal::VERSION = "0.01";
+  $Orignal::VERSION = "0.02";
 }
 package Orignal;
 use Carp();
