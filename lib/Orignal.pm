@@ -48,9 +48,7 @@ sub attributes {
 sub new {
     my $class = shift;
     my $self = {};
-    warn("Orignal new called class=".$class);
     bless( $self, ( ref($class) || $class ) );
-#    print(ref($self)." new=".Dumper(\@_)."\n");
     $self->_initialize(@_);
     return( $self );
 }
