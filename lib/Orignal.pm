@@ -812,18 +812,25 @@ See the examples below;
        ref($new_address) eq 'ARRAY' || die("ERROR: SomeMode::House::address, must be an 'ARRAY' Ref.");
          
    }
+
+
+=head1 CONTRIBUTING 
+If you like Orignal and want to add to it or just complain. The source is available on GitHub at https://github.com/byterock/Orignal
    
 =head1 Bugs
 
-I haven't found any but I am sure there are?
+I haven't found any but I am sure there are?  You can report them here https://rt.cpan.org/Public/Dist/Display.html?Name=Orignal or 
+here https://github.com/byterock/Orignal/issues.
 
 =head1 SUPPORT
 
-No support is available but a list is coming soon
+Now there is a Wiki, but nothing there yet https://github.com/byterock/Orignal/wiki.
 
 =head1 AUTHOR
 
 John Scoles.
+
+https://github.com/byterock/Orignal
 
 =head1 COPYRIGHT AND LICENSE ^
 
