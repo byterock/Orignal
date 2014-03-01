@@ -1,6 +1,6 @@
 require 5.006_001;
 BEGIN {
-  $Orignal::VERSION = "0.02";
+  $Orignal::VERSION = "0.03";
 }
 package Orignal;
 use Carp();
@@ -436,7 +436,7 @@ sub _initialize {
 __END__
 =pod
 
-=head1 Orignal 
+=head1 NAME
 
 Orignal - Very simple properties/attributes/fields for Perl
 
@@ -815,7 +815,9 @@ See the examples below;
 
 
 =head1 CONTRIBUTING 
-If you like Orignal and want to add to it or just complain. The source is available on GitHub at https://github.com/byterock/Orignal
+
+If you like Orignal and want to add to it or just complain.
+The source is available on GitHub at L<https://github.com/byterock/Orignal>
    
 =head1 Bugs
 
