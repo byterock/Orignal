@@ -815,7 +815,9 @@ See the examples below;
 
 
 =head1 CONTRIBUTING 
-If you like Orignal and want to add to it or just complain. The source is available on GitHub at https://github.com/byterock/Orignal
+
+If you like Orignal and want to add to it or just complain.
+The source is available on GitHub at L<https://github.com/byterock/Orignal>
    
 =head1 Bugs
 
