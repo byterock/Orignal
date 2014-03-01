@@ -2,6 +2,7 @@ Revision history for Perl module Orignal
 
 0.03    2014-03-01
         - Fixed the heading for abstract section in pod
+        - Added github repo to metadata
 
 0.02    2012-05-02
         - Added in some more validation ability.
