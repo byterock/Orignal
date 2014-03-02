@@ -16,4 +16,9 @@ WriteMakefile(
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Orignal-*' },
+    META_MERGE          => {
+        resources => {
+            repository => 'https://github.com/byterock/Orignal',
+        },
+    },
 );
